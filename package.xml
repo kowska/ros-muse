@@ -4,7 +4,7 @@
   <version>0.0.0</version>
   <description>Package to integrate the MUSE</description>
 
-  <maintainer email="jkarakow@uwaterloo.ca">Julia</maintainer>
+  <maintainer email="jkarkow@uwaterloo.ca">Julia</maintainer>
   <maintainer email="kkiyengar@uwaterloo.ca">Keshav</maintainer>
 
   <!-- One license tag required, multiple allowed, one license per tag -->
